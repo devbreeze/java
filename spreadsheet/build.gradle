@@ -1,0 +1,8 @@
+dependencies {
+    compile project(':commons')
+    compile 'args4j:args4j:2.32'
+    compile 'org.apache.commons:commons-collections4:4.0'
+    compile 'org.apache.commons:commons-lang3:3.4'
+    compile 'org.apache.poi:poi:3.12'
+    compile 'org.apache.poi:poi-ooxml:3.12'
+}
