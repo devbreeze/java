@@ -1,3 +1,4 @@
 include "commons"
+include "learn-httpclient"
 include "learn-jaxp"
 include "spreadsheet"
